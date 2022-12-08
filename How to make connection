@@ -1,0 +1,5 @@
+getConnection("jdbc:mysql://localhost:3306/jdbclearn","root","1234")
+
+
+$> mysql -h host -u user -p menagerie
+Enter password: ******** {--> why not working}
